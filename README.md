@@ -1,7 +1,3 @@
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
-
-# Newsletter: Stay in Touch for Future Updates
-
 # Commit to excellence, reap the rewards
 
 As a dedicated fitness expert, my mission is to inspire you towards a transformative and vibrant lifestyle. Recognising that every individual brings their own unique strengths and challenges, I craft personalised fitness regimes tailored to your specific health and wellness aspirations. Let me empower you to make informed choices, paving your path towards achieving your ultimate fitness goals.
